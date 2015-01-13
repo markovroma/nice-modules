@@ -1,5 +1,5 @@
 Nm = require('./vendor/Nm');
-Nm.config.serverBaseDir = '/home/markov/projects/nice-modules/examples/simple/';
+Nm.config.serverBaseDir = __dirname + '/';
 Nm.config.vendors = {
     
 };
